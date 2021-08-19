@@ -35,7 +35,7 @@ class Player {
   reduceLife(archerLife) {
 
     if(archerLife === 2) {
-      this.life1 = "red;";
+      this.life1 = "red";
     }
   
     if(archerLife === 1) {
